@@ -46,9 +46,6 @@ touch .env
 - ACCESS_SECRET = "AWS User ACCESS_SECRET"
 - RPC_URL = "your alchemy RPC_URL"
 
-# For "worker-frontend"
-touch .env
-- DATABASE_URL="your data base url"
 ```
 
 ### 5. Now you are all set.. Start coding...
