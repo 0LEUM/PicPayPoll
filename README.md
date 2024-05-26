@@ -109,9 +109,9 @@ Certainly, here are the key points outlining the inspiration behind PicPayPoll :
 
 #
 
-# **Hall of Fame**
+# **Use This Project**
 
-If you'd like to contribute anything from a bug-fix to a feature update, you can read our [CONTRIBUTING GUIDE](https://github.com/PicPayPoll/blob/main/USE.md)
+If you'd like to run this project on your local machine, please read our [USE GUIDE](https://github.com/0LEUM/PicPayPoll/blob/main/USE.md)
 
 #
 
