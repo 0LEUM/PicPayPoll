@@ -1,2 +1,2 @@
 
-export const privateKey = "3DyRooP8k3yoFtdRw2kR8drrj4pEbpL6UXKG6KZoGt37Qy3h1azffYcvrWHd21fmUuSnab2t5JAwJhE3gUBugAbK";
+export const privateKey = "phantom wallet private key";
