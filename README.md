@@ -121,6 +121,6 @@ If you'd like to run this project on your local machine, please read our [USE GU
 
 <p align="center">
 
-[![Collaborators](https://contrib.rocks/image?repo=0LEUM/PicPayPoll)](https://github.com/0LEUM/PicPayPoll/graphs/contributors)
+[Collaborators](https://contrib.rocks/image?repo=0LEUM/PicPayPoll)](https://github.com/0LEUM/PicPayPoll/graphs/contributors)
 
 </p>
