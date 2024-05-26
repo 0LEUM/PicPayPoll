@@ -109,6 +109,12 @@ Certainly, here are the key points outlining the inspiration behind PicPayPoll :
 
 #
 
+# **Hall of Fame**
+
+If you'd like to contribute anything from a bug-fix to a feature update, you can read our [CONTRIBUTING GUIDE](https://github.com/PicPayPoll/blob/main/USE.md)
+
+#
+
 # **Hall of Fame** ✨
 
 <br>
