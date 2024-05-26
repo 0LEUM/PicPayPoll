@@ -8,7 +8,7 @@
 
 # **Workflow**
 
-> It is a basic workflow data flow diagram made for our project...
+> It is a basic flowchart diagram made for our project...
 
 ![Flowchart](images/Flowchart.png)
 
