@@ -10,7 +10,7 @@
 
 > It is a basic workflow data flow diagram made for our project...
 
-![Flowchart]()
+![Flowchart](images/Flowchart.png)
 
 > It is a basic diagram of how the transaction takes place in our project...
 
