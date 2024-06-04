@@ -123,22 +123,22 @@ Dependencies: -
 - https://www.npmjs.com/package/axios
 
 Technology: -
-ORM - https://www.prisma.io/
-Database - https://www.postgresql.org/
-Backend - https://www.typescriptlang.org/
-        - https://expressjs.com/
-Frontend - https://nextjs.org/
-CDN - https://aws.amazon.com/cloudfront/ 
+- ORM - https://www.prisma.io/
+- Database - https://www.postgresql.org/
+- Backend - https://www.typescriptlang.org/
+          - https://expressjs.com/
+- Frontend - https://nextjs.org/
+- CDN - https://aws.amazon.com/cloudfront/ 
     - https://aws.amazon.com/s3/
 
 Crypto Used: -
-https://solana.com/
+- https://solana.com/
 
 Wallet: -
-https://phantom.app/
+- https://phantom.app/
 
 Remote Procedure Call URL : -
-https://www.alchemy.com/
+- https://www.alchemy.com/
 
 #
 
