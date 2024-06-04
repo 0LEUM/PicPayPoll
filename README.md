@@ -111,6 +111,37 @@ Certainly, here are the key points outlining the inspiration behind PicPayPoll :
 
 #
 
+# **Some Useful Links**
+
+Dependencies: -
+- https://www.npmjs.com/package/@aws-sdk/client-s3
+- https://www.npmjs.com/package/@solana/web3.js
+- https://www.prisma.io/docs/orm/prisma-client/setup-and-configuration
+- https://www.npmjs.com/package/cors
+- https://www.npmjs.com/package/jsonwebtoken
+- https://zod.dev/
+- https://www.npmjs.com/package/axios
+
+Technology: -
+ORM - https://www.prisma.io/
+Database - https://www.postgresql.org/
+Backend - https://www.typescriptlang.org/
+        - https://expressjs.com/
+Frontend - https://nextjs.org/
+CDN - https://aws.amazon.com/cloudfront/ 
+    - https://aws.amazon.com/s3/
+
+Crypto Used: -
+https://solana.com/
+
+Wallet: -
+https://phantom.app/
+
+Remote Procedure Call URL : -
+https://www.alchemy.com/
+
+#
+
 # **Use This Project**
 
 If you'd like to run this project on your local machine, please read our [USE GUIDE](https://github.com/0LEUM/PicPayPoll/blob/main/USE.md)
