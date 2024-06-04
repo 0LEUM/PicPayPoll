@@ -104,6 +104,8 @@ Certainly, here are the key points outlining the inspiration behind PicPayPoll :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=40px/>
 <img src="https://d33140gluhdd3j.cloudfront.net/imp/Phantom-Icon.png" height=40px/>   
 <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=032" height=40px width=40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=40px width=40px/>
+          
 
 </p>
 
